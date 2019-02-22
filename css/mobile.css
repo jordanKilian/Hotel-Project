@@ -1,0 +1,68 @@
+/* Mobile CSS */
+
+#navBar .logo {
+  float: none;
+  text-align: center;
+}
+
+#navBar ul,
+#navBar ul li {
+  float: none;
+}
+
+#navBar ul li a {
+  padding: 5px;
+  border-bottom: #444 dotted 1px;
+}
+
+/* Showcase */
+
+#showcase .showcaseContent {
+  height: 100%;
+  padding-top: 100px;
+}
+
+/* Home Info */
+
+#homeInfo .infoImg {
+  display: none;
+}
+
+#homeInfo {
+  height: 550px;
+}
+
+#homeInfo .infoContent {
+  width: 100%;
+  padding-top: 100px;
+  float: none;
+}
+
+/* Boxes */
+
+.box {
+  float: none;
+  width: 100%;
+}
+
+/* About */
+
+#aboutInfo .infoLeft,
+#aboutInfo .infoRight {
+  float: none;
+  width: 100%
+}
+
+.lgHeading {
+  text-align: center;
+}
+
+#aboutInfo .infoRight img {
+  margin-top: 30px;
+}
+
+/* CONTACT PAGE */
+
+#contactInfo .box {
+  border-bottom: #444 dotted 1px;
+}
